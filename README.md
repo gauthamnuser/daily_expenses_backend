@@ -27,6 +27,7 @@ method:get\
 key: username
 
 3:ADD Expense
+
 url: http://127.0.0.1:8000/addexpense \
 method:post\
 keys: expense_id,type,total_expenses,user_id,exact
