@@ -29,14 +29,14 @@ key: username
 3:ADD Expense
 url: http://127.0.0.1:8000/addexpense \
 method:post\
-keys: expense_id,type,total_expenses,user_id,exact\
+keys: expense_id,type,total_expenses,user_id,exact
 
-(type can be integers 1(equal), 2(exact), 3(percentage). multiple entries under the same expense_id will be added to the table)\
+(type can be integers 1(equal), 2(exact), 3(percentage). multiple entries under the same expense_id will be added to the table)
 
 4:User Expense
 url: http://127.0.0.1:8000/user_expense/username=value \
 method:get \
-key: username \
+key: username 
 
 (All the expenses of a specific user will be retrieved)
 
