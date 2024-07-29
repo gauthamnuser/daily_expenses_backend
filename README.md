@@ -14,7 +14,7 @@ php artisan migrate
 
 # Calling API 
 
-1:Create USER
+1:Create User
 
 url: http://127.0.0.1:8000/createuser \
 method:post\
@@ -26,7 +26,7 @@ url: http://127.0.0.1:8000/user_details/username=value \
 method:get\
 key: username
 
-3:ADD Expense
+3:Add Expense
 
 url: http://127.0.0.1:8000/addexpense \
 method:post\
