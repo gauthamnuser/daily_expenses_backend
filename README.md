@@ -56,3 +56,8 @@ url: http://127.0.0.1:8000/download_balancesheet \
 method:get
 
 (Total number of expenses and the overall sum of the expenses will be shown)
+
+# Details
+
+Framework: Laravel
+Database: MySQL
