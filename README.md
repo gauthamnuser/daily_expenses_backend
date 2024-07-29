@@ -2,9 +2,9 @@
 
 # Database settings
 
-DB_DATABASE=daily_expenses,
-DB_USERNAME=root,
-DB_PASSWORD=,
+DB_DATABASE=daily_expenses\
+DB_USERNAME=root\
+DB_PASSWORD=\
 
 run the command below to create appropriate tables for the application
 
