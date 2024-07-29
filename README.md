@@ -44,7 +44,7 @@ key: username
 
 4:Overall Expense
 
-url: http://127.0.0.1:8000/overall_expense/username=value
+url: http://127.0.0.1:8000/overall_expense/username=value \
 method:get\
 key: username
 
