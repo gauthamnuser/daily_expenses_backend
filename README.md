@@ -16,8 +16,8 @@ php artisan migrate
 
 1:Create USER
 
-url: http://127.0.0.1:8000/createuser
-method:post
+url: http://127.0.0.1:8000/createuser \
+method:post\
 keys: name,username,phone,email (values are string, username must be unique)
 
 
