@@ -59,5 +59,5 @@ method:get
 
 # Details
 
-Framework: Laravel
+Framework: Laravel\
 Database: MySQL
